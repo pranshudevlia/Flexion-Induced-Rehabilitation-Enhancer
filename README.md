@@ -162,51 +162,6 @@ Potential improvements include:
 4.  **Improved integration:** Design a compact PCB and refine the
     mechanical packaging to improve reliability and wearability.
 
-## Repository Contents
-
-Add the project files to this repository as they become available.
-Suggested organisation:
-
-``` text
-FIRE/
-├── README.md
-├── firmware/
-│   └── <Arduino source files>
-├── electronics/
-│   └── <circuit diagrams and design files>
-└── mechanical/
-    └── <CAD files and mechanical drawings>
-```
-
-The folder structure above is a suggested organisation; it does not
-imply that these files are included in this repository yet.
-
-## Team
-
-Developed at **Indian Institute of Technology Indore**, under the
-guidance of **Prof. IA Palani**.
-
--   Manthripragada Viswajith
--   Muhamed Nihal
--   Nambiar Anand S
--   Pranshu Devlia
--   R. Gopikrishnan
--   Nikunj Bheda
--   Arpit Kumar Singh
-
-## Safety Notice
-
-This project is an academic prototype intended for experimentation and
-development. It is not a certified medical device and should not be used
-as a substitute for professional medical advice, diagnosis, or
-supervised rehabilitation. SMA elements can become hot, and the actuator
-circuit can draw high current. Test the electronics and actuators with
-appropriate current limiting, insulation, thermal precautions, and
-supervision. Do not wear or test the prototype on a person unless it has
-been reviewed for electrical, thermal, and mechanical safety by
-qualified supervisors.
-
-## Acknowledgement
-
-We thank **Prof. IA Palani** and the **Indian Institute of Technology
+    
+logy
 Indore** for their guidance and support during the project.
