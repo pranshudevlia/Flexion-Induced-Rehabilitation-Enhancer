@@ -162,6 +162,3 @@ Potential improvements include:
 4.  **Improved integration:** Design a compact PCB and refine the
     mechanical packaging to improve reliability and wearability.
 
-    
-logy
-Indore** for their guidance and support during the project.
